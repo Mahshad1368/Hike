@@ -45,7 +45,6 @@ struct CardView: View {
                         Spacer()
                         
                         Button {
-                            print("buttttton")
                             isShowingSheets.toggle()
                         }label: {
                             CostumButtonView()

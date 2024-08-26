@@ -19,6 +19,7 @@
 		49555C332C7C980D00F613FF /* CustomeCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49555C322C7C980D00F613FF /* CustomeCircleView.swift */; };
 		49555C352C7C9B3900F613FF /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49555C342C7C9B3900F613FF /* MotionAnimationView.swift */; };
 		49555C382C7CA5A000F613FF /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49555C372C7CA5A000F613FF /* SettingsView.swift */; };
+		49555C3A2C7CCE7100F613FF /* CustomListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49555C392C7CCE7100F613FF /* CustomListRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		49555C322C7C980D00F613FF /* CustomeCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomeCircleView.swift; sourceTree = "<group>"; };
 		49555C342C7C9B3900F613FF /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		49555C372C7CA5A000F613FF /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		49555C392C7CCE7100F613FF /* CustomListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomListRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				49555C2E2C7C73DD00F613FF /* CostumButtonView.swift */,
 				49555C322C7C980D00F613FF /* CustomeCircleView.swift */,
 				49555C342C7C9B3900F613FF /* MotionAnimationView.swift */,
+				49555C392C7CCE7100F613FF /* CustomListRowView.swift */,
 			);
 			path = Component;
 			sourceTree = "<group>";
@@ -282,6 +285,7 @@
 			files = (
 				49555BFF2C78E2EF00F613FF /* ContentView.swift in Sources */,
 				49555C272C78E7E500F613FF /* CardView.swift in Sources */,
+				49555C3A2C7CCE7100F613FF /* CustomListRowView.swift in Sources */,
 				49555C2D2C78F66D00F613FF /* ColorExtention.swift in Sources */,
 				49555C382C7CA5A000F613FF /* SettingsView.swift in Sources */,
 				49555C2F2C7C73DD00F613FF /* CostumButtonView.swift in Sources */,

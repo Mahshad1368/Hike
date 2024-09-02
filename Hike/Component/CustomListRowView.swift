@@ -25,7 +25,7 @@ struct CustomListRowView: View {
             if rowContent != nil {
                 Text(rowContent!)
                     .foregroundColor(.primary)
-                .fontWeight(.heavy)
+                    .fontWeight(.heavy)
             
             } else if (rowLinkLable != nil  && rowLinkDestination != nil) {
                 Link(rowLinkLable!, destination: URL(string: rowLinkDestination!)!)
